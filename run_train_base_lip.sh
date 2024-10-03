@@ -1,0 +1,1 @@
+python NeRFs_lip/train_base_model_lip.py --config dataset/$1/0/config.txt

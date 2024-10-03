@@ -1,0 +1,1 @@
+python NeRFs_lip/run_novel_id_lip.py --config dataset/$1/0/config.txt
